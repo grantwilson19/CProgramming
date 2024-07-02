@@ -1,0 +1,12 @@
+---
+:id: 192033622
+:submitters:
+- :name: Grant Wilson
+  :email: gwilson1828@sdsu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-09-11 19:19:40.516699000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-09-11 12:19:40.516699000 Z
+:status: processed
+:score: 90.0
